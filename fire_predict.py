@@ -1,6 +1,3 @@
-from http.server import BaseHTTPRequestHandler
-import json
-import urllib.parse
 import numpy as np
 import rasterio
 from rasterio.features import shapes
