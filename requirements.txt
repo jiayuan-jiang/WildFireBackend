@@ -1,5 +1,5 @@
-numpy==1.24.2
-rasterio==1.3.6
-shapely==2.0.1
-flask==3.1.1
-PyJWT==2.10.1
+numpy
+rasterio
+shapely
+flask
+PyJWT
